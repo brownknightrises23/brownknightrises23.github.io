@@ -10,6 +10,6 @@ role: Designer & Developer
 ---
 ## Web and Branding for a daycare which resulted in a 500% increase in client inquiries.
 
-![portal mac](/img/portal-macfront.png)
+![landing](/img/wp1.png)
 
 <div class="caption">The designer can view their sales and earnings.</div>
