@@ -12,4 +12,4 @@ role: Designer & Developer
 
 ![landing](/img/wb1.png)
 
-<div class="caption">The designer can view their sales and earnings.</div>
+<div class="caption">The homepage for the daycare made is very easy to contact them and schedule a tour.</div>
